@@ -1,8 +1,6 @@
-# Quran Tab
+# Calculator
 
 ## [🌟Live Link🌟](https://ah-fayyad.github.io/Calculator/)
-
-![ CALCULATOR ]
 
 
 ## Description
@@ -27,4 +25,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 - [Email](ahfayyad.m@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ahmed-fayyad-97a727265?trk=contact-info)
+
 
