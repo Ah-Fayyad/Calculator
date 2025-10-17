@@ -16,8 +16,8 @@ This project involved the application of various skills, including:
 - **Responsive Design:** Ensured a seamless user experience across various devices and screen sizes.
 
 ## Landing Page Overview
-![Calculator ](Screenshots\photo1.png)
-![ Calculator](Screenshots\photo2.png)
+![Calculator ](Screenshots/photo1.png)
+![ Calculator](Screenshots/photo2.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -25,6 +25,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 - [Email](ahfayyad.m@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ahmed-fayyad-97a727265?trk=contact-info)
+
 
 
 
